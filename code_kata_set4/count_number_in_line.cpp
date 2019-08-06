@@ -29,7 +29,7 @@ int main()
     getline(cin, sentence);
 
     int numberOfWords = countNumberOfWords(sentence);
-    cout<<"The number of words in the sentence is : "<<numberOfWords<<endl;
+    cout<<" "<<numberOfWords<<endl;
 
     return 0;
 
